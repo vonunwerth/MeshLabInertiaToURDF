@@ -34,3 +34,13 @@ Looks pretty similar to the manually calculated values, doesn't it? ;)
 
 ### Licence
 The Meshlab source is released under the GPLv3 License.
+
+### Copyright
+```
+MeshLabInertiaToURDF
+
+Maximilian von Unwerth
+von-unwerth.de
+Copyright(C) 2022
+All rights reserved.
+```
